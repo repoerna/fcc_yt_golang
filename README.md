@@ -76,3 +76,26 @@ VSCode
 - Enumerate constant
 - Enumeration expressions
 
+## Array and Slices
+- Array
+    - Creation
+    - Built in function
+    - Working with arrays
+
+- Slice
+    - Creation
+    - Built in function
+    - Working eith function
+
+## Map and Struct
+- Map
+    - What they are?
+    - Creating
+    - Manipulation
+
+- Struct
+    - What they are?
+    - Creating
+    - Naming conventions
+    - Embedding
+    - Tags
