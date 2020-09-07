@@ -99,3 +99,14 @@ VSCode
     - Naming conventions
     - Embedding
     - Tags
+
+## Control Flow
+- If Statement
+    - Operator
+    - If - else and if -else if statement
+
+- Switch statement
+    - Simple cases
+    - Cases with multiple test
+    - Falling through
+    - Type Switches
