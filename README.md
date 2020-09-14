@@ -110,3 +110,25 @@ VSCode
     - Cases with multiple test
     - Falling through
     - Type Switches
+
+## Looping
+- For statement
+    - simple loops
+    - exiting early
+    - looping trough colections 
+
+## Control Flow - Defer, Panic, Recover
+- Defer
+    Invoke a function but delay the execution
+- Panic
+    make go program in state that cant continue to run,
+    and how go runtime can triger that, and triger it on our own
+- Recover
+    when panic occur, recover can be used to saved program to not bailed out completely
+
+## Pointer 
+- Crerating pointer
+- Derefrencing pointers
+- the new function
+- working with nil
+- type with internal pointer
