@@ -132,3 +132,20 @@ VSCode
 - the new function
 - working with nil
 - type with internal pointer
+
+## Functions
+- Basic Syntax
+- Parameter
+- Return value
+- Anonymous function
+- functions as type
+- methods
+
+## Interfaces
+- Basics
+- Composing Interface
+- Type conversion
+    - The empty interface
+    - Type switces
+- Implementing with values vs pointers
+- Best practices
